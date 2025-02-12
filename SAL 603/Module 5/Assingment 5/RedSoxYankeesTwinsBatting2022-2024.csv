@@ -1,0 +1,237 @@
+,Player,Age,WAR,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,OPS+,rOBA,Rbat+,TB,GIDP,HBP,SH,SF,IBB,Pos,Awards,Player-additional,Team,Season,Bats,Red Sox,Twins,Yankees,2022,2023,2024
+0,Christian Vázquez,31,2.2,84,318,294,33,83,20,0,8,42,1,2,18,51,0.282,0.327,0.432,0.759,109.0,0.331,108.0,127,7,3,0,3,0,2/3H4,,vazquch01,Red Sox,2022,R,True,False,False,True,False,False
+1,Bobby Dalbec,27,-0.7,117,353,317,40,68,9,2,12,39,3,0,29,118,0.215,0.283,0.369,0.652,80.0,0.302,83.0,117,5,3,0,4,0,35H/D46,,dalbebo01,Red Sox,2022,R,True,False,False,True,False,False
+2,Trevor Story,29,2.5,94,396,357,53,85,22,0,16,66,13,0,32,122,0.238,0.303,0.434,0.737,102.0,0.334,102.0,155,9,3,0,4,4,4/H,,storytr01,Red Sox,2022,R,True,False,False,True,False,False
+3,Xander Bogaerts,29,5.9,150,631,557,84,171,38,0,15,73,8,2,57,118,0.307,0.377,0.456,0.833,131.0,0.367,131.0,254,14,10,0,7,2,*6/DH,ASMVP-9SS,bogaexa01,Red Sox,2022,R,True,False,False,True,False,False
+4,Rafael Devers,25,4.5,141,614,555,84,164,42,1,27,88,3,1,50,114,0.295,0.358,0.521,0.879,141.0,0.381,143.0,289,14,6,0,3,11,*5/DH,ASMVP-14,deverra01,Red Sox,2022,L,True,False,False,True,False,False
+5,Alex Verdugo,26,1.1,152,644,593,75,166,39,1,11,74,1,3,42,86,0.28,0.328,0.405,0.732,102.0,0.323,101.0,240,14,3,0,6,2,*79/DH,,verdual01,Red Sox,2022,L,True,False,False,True,False,False
+6,Kiké Hernández,30,0.9,93,402,361,48,80,24,0,6,45,0,2,34,71,0.222,0.291,0.338,0.629,75.0,0.284,73.0,122,11,3,0,4,0,846/H,,hernaen02,Red Sox,2022,R,True,False,False,True,False,False
+7,Jackie Bradley Jr.,32,-0.4,91,290,271,21,57,19,1,3,29,2,3,17,58,0.21,0.257,0.321,0.578,60.0,0.257,54.0,87,3,0,2,0,0,98/H1,,bradlja02,Red Sox,2022,L,True,False,False,True,False,False
+8,J.D. Martinez,34,1.1,139,596,533,76,146,43,1,16,62,0,0,52,145,0.274,0.341,0.448,0.79,117.0,0.346,117.0,239,20,5,0,5,1,*D,AS,martijd02,Red Sox,2022,R,True,False,False,True,False,False
+9,Christian Arroyo,27,0.7,87,300,280,32,80,16,1,6,36,5,1,13,49,0.286,0.322,0.414,0.736,103.0,0.324,99.0,116,7,3,2,2,2,4965/3DH,,arroych01,Red Sox,2022,R,True,False,False,True,False,False
+10,Franchy Cordero,27,-0.2,84,275,242,36,53,17,1,8,29,4,1,28,92,0.219,0.3,0.397,0.697,92.0,0.309,89.0,96,1,1,2,2,1,397H/D8,,cordefr02,Red Sox,2022,L,True,False,False,True,False,False
+11,Tommy Pham,34,-0.3,53,235,214,32,50,12,0,6,24,1,1,14,67,0.234,0.298,0.374,0.672,86.0,0.301,85.0,80,7,6,0,1,0,7/D,,phamth01,Red Sox,2022,R,True,False,False,True,False,False
+12,Jarren Duran,25,-0.1,58,223,204,23,45,14,3,3,17,7,1,14,63,0.221,0.283,0.363,0.645,78.0,0.299,79.0,74,1,4,0,1,0,8/9HD,,duranja01,Red Sox,2022,L,True,False,False,True,False,False
+13,Rob Refsnyder,31,0.9,57,177,153,25,47,11,0,6,21,1,1,15,46,0.307,0.384,0.497,0.881,143.0,0.385,146.0,76,1,6,0,3,0,9H8/D7,,refsnro01,Red Sox,2022,R,True,False,False,True,False,False
+14,Kevin Plawecki,31,-1.1,60,175,157,15,34,8,0,1,12,0,0,14,28,0.217,0.287,0.287,0.574,61.0,0.26,54.0,45,5,2,1,1,0,2/H1,,plaweke01,Red Sox,2022,R,True,False,False,True,False,False
+15,Reese McGuire,27,0.9,36,108,98,13,33,5,1,3,12,1,0,6,23,0.337,0.377,0.5,0.877,142.0,0.382,142.0,49,4,1,1,1,0,2/H1,,mcguire01,Red Sox,2022,L,True,False,False,True,False,False
+16,Triston Casas,22,0.1,27,95,76,11,15,1,0,5,12,1,0,19,23,0.197,0.358,0.408,0.766,113.0,0.354,120.0,31,4,0,0,0,0,3/H,,casastr01,Red Sox,2022,L,True,False,False,True,False,False
+17,Connor Wong,26,-0.1,27,56,48,8,9,3,0,1,7,0,0,5,16,0.188,0.273,0.313,0.585,63.0,0.256,51.0,15,0,1,1,1,0,2/H45D,,wongco01,Red Sox,2022,R,True,False,False,True,False,False
+18,Eric Hosmer,32,0.0,14,50,45,6,11,3,0,0,4,0,0,4,9,0.244,0.32,0.311,0.631,77.0,0.341,113.0,14,2,1,0,0,0,3,,hosmeer01,Red Sox,2022,L,True,False,False,True,False,False
+19,Yolmer Sánchez,30,-0.5,14,44,37,1,4,0,0,0,2,0,2,5,13,0.108,0.214,0.108,0.322,-6.0,0.139,-22.0,4,0,0,2,0,0,1-Apr,,sanchca01,Red Sox,2022,S,True,False,False,True,False,False
+20,Jeter Downs,23,-0.6,14,41,39,4,6,1,0,1,4,0,0,1,21,0.154,0.171,0.256,0.427,17.0,0.183,-1.0,10,0,0,0,1,0,/45H6D,,downsje01,Red Sox,2022,R,True,False,False,True,False,False
+21,Abraham Almonte,33,0.0,15,37,35,7,9,2,0,1,2,1,0,1,12,0.257,0.297,0.4,0.697,92.0,0.333,103.0,14,1,1,0,0,0,/H87D9,,almonab01,Red Sox,2022,S,True,False,False,True,False,False
+22,Jaylin Davis,27,0.2,12,27,24,4,8,1,0,0,2,0,0,3,11,0.333,0.407,0.375,0.782,120.0,0.356,124.0,9,0,0,0,0,0,/H897,,davisja03,Red Sox,2022,R,True,False,False,True,False,False
+23,Yu Chang,26,0.0,11,26,20,3,3,2,0,0,1,0,0,5,7,0.15,0.346,0.25,0.596,70.0,0.291,77.0,5,1,1,0,0,0,/643,,changyu01,Red Sox,2022,R,True,False,False,True,False,False
+24,Travis Shaw,32,-0.7,7,19,19,0,0,0,0,0,0,0,0,0,7,0.0,0.0,0.0,0.0,-100.0,0.0,-134.0,0,0,0,0,0,0,/3DH,,shawtr01,Red Sox,2022,L,True,False,False,True,False,False
+25,Jonathan Araúz,23,-0.4,6,12,10,1,0,0,0,0,1,0,0,0,3,0.0,0.0,0.0,0.0,-100.0,0.0,-155.0,0,0,0,1,1,0,/46H,,arauzjo01,Red Sox,2022,S,True,False,False,True,False,False
+26,Connor Wong,27,2.2,126,403,371,55,87,25,2,9,36,8,2,22,134,0.235,0.288,0.385,0.673,80.0,0.299,78.0,143,4,6,3,1,0,*2H/4D,,wongco01,Red Sox,2023,R,True,False,False,False,True,False
+27,Triston Casas,23,2.2,132,502,429,66,113,21,2,24,65,0,0,70,126,0.263,0.367,0.49,0.856,129.0,0.369,130.0,210,7,1,0,2,2,*3H/D,ROY-3,casastr01,Red Sox,2023,L,True,False,False,False,True,False
+28,Christian Arroyo,28,-0.2,66,206,195,23,47,16,0,3,24,1,3,7,45,0.241,0.268,0.369,0.638,70.0,0.266,61.0,72,8,1,1,2,0,4/H56,,arroych01,Red Sox,2023,R,True,False,False,False,True,False
+29,Kiké Hernández,31,-0.6,86,323,297,38,66,11,0,6,31,3,1,22,68,0.222,0.279,0.32,0.599,62.0,0.268,57.0,95,11,2,0,2,0,648/H,,hernaen02,Red Sox,2023,R,True,False,False,False,True,False
+30,Rafael Devers,26,3.5,153,656,580,90,157,34,0,33,100,5,1,62,126,0.271,0.351,0.5,0.851,126.0,0.365,126.0,290,15,11,0,3,10,*5/DH6,MVP-18SS,deverra01,Red Sox,2023,L,True,False,False,False,True,False
+31,Masataka Yoshida,29,1.4,140,580,537,71,155,33,3,15,72,8,0,34,81,0.289,0.338,0.445,0.783,109.0,0.348,112.0,239,20,7,0,2,0,7D/H,ROY-6,yoshima02,Red Sox,2023,L,True,False,False,False,True,False
+32,Jarren Duran,26,2.1,102,362,332,46,98,34,2,8,40,24,2,24,90,0.295,0.346,0.482,0.828,121.0,0.366,119.0,160,3,3,0,2,1,87H/9D,,duranja01,Red Sox,2023,L,True,False,False,False,True,False
+33,Alex Verdugo,27,2.6,142,602,546,81,144,37,5,13,54,5,3,45,93,0.264,0.324,0.421,0.745,100.0,0.324,98.0,230,11,6,0,5,1,*9/H,,verdual01,Red Sox,2023,L,True,False,False,False,True,False
+34,Justin Turner,38,2.1,146,626,558,86,154,31,0,23,96,4,1,51,110,0.276,0.345,0.455,0.8,114.0,0.35,116.0,254,10,11,0,6,0,D34/5H,,turneju01,Red Sox,2023,R,True,False,False,False,True,False
+35,Adam Duvall,34,1.6,92,353,320,45,79,24,2,21,58,4,0,22,110,0.247,0.303,0.531,0.834,119.0,0.349,114.0,170,0,6,0,5,1,89/H7D,,duvalad01,Red Sox,2023,R,True,False,False,False,True,False
+36,Rob Refsnyder,32,0.4,89,243,202,31,50,9,1,1,28,7,2,33,47,0.248,0.365,0.317,0.682,87.0,0.327,98.0,64,8,5,1,1,0,7H8/D9,,refsnro01,Red Sox,2023,R,True,False,False,False,True,False
+37,Reese McGuire,28,-0.3,72,206,187,15,50,12,1,1,16,2,1,11,53,0.267,0.31,0.358,0.668,80.0,0.295,76.0,67,2,1,2,1,0,2H/D,,mcguire01,Red Sox,2023,L,True,False,False,False,True,False
+38,Pablo Reyes,29,0.4,64,185,167,27,48,9,0,2,20,7,2,14,21,0.287,0.339,0.377,0.716,94.0,0.329,99.0,63,3,0,2,2,0,64H/513D,,reyespa01,Red Sox,2023,R,True,False,False,False,True,False
+39,Trevor Story,30,0.8,43,168,158,12,32,9,0,3,14,10,3,9,55,0.203,0.25,0.316,0.566,52.0,0.272,58.0,50,2,1,0,0,0,6/DH4,,storytr01,Red Sox,2023,R,True,False,False,False,True,False
+40,Enmanuel Valdéz,24,0.0,49,149,139,17,37,8,0,6,19,5,1,8,37,0.266,0.311,0.453,0.764,103.0,0.335,102.0,63,4,1,0,0,0,4/H6D,,valdeen01,Red Sox,2023,L,True,False,False,False,True,False
+41,Yu Chang,27,0.1,39,112,105,12,17,2,0,6,18,4,0,3,34,0.162,0.2,0.352,0.552,45.0,0.252,39.0,37,2,2,2,0,0,6/4H35D,,changyu01,Red Sox,2023,R,True,False,False,False,True,False
+42,Luis Urías,26,0.0,32,109,89,13,20,4,0,2,13,0,0,14,26,0.225,0.361,0.337,0.698,91.0,0.317,93.0,30,3,5,0,0,0,4/5H,,uriaslu01,Red Sox,2023,R,True,False,False,False,True,False
+43,Raimel Tapia,29,0.4,39,97,87,14,23,4,1,1,10,6,1,9,19,0.264,0.333,0.368,0.701,90.0,0.325,92.0,32,1,0,0,0,0,H7/89D,,tapiara01,Red Sox,2023,L,True,False,False,False,True,False
+44,Ceddanne Rafaela,22,0.0,28,89,83,11,20,6,0,2,5,3,1,4,28,0.241,0.281,0.386,0.666,78.0,0.287,70.0,32,2,1,0,1,0,8/H64D,,rafaece01,Red Sox,2023,R,True,False,False,False,True,False
+45,Wilyer Abreu,24,0.8,28,85,76,10,24,6,0,2,14,3,1,9,23,0.316,0.388,0.474,0.862,132.0,0.373,131.0,36,0,0,0,0,0,78/H9D,,abreuwi02,Red Sox,2023,L,True,False,False,False,True,False
+46,Bobby Dalbec,28,-0.2,21,53,49,6,10,2,0,1,1,1,0,4,28,0.204,0.264,0.306,0.57,54.0,0.259,48.0,15,0,0,0,0,0,3/H5D46,,dalbebo01,Red Sox,2023,R,True,False,False,False,True,False
+47,David Hamilton,25,-0.1,15,39,33,2,4,2,0,0,0,2,1,6,10,0.121,0.256,0.182,0.438,22.0,0.215,21.0,6,1,0,0,0,0,6/4H,,hamilda03,Red Sox,2023,L,True,False,False,False,True,False
+48,Jorge Alfaro,30,-0.1,8,20,17,0,2,0,0,0,0,0,0,2,3,0.118,0.25,0.118,0.368,5.0,0.195,5.0,2,1,1,0,0,0,/2DH,,alfarjo01,Red Sox,2023,R,True,False,False,False,True,False
+49,Caleb Hamilton,28,-0.1,4,6,5,0,0,0,0,0,0,0,0,1,5,0.0,0.167,0.0,0.167,-49.0,0.115,-51.0,0,0,0,0,0,0,/2,,hamilca01,Red Sox,2023,R,True,False,False,False,True,False
+50,Kutter Crawford,27,0.0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1/H,,crawfku01,Red Sox,2023,R,True,False,False,False,True,False
+51,Tayler Scott,31,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,/1,,scottta02,Red Sox,2023,R,True,False,False,False,True,False
+52,John Schreiber,29,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,schrejo01,Red Sox,2023,R,True,False,False,False,True,False
+53,Nick Pivetta,30,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,pivetni01,Red Sox,2023,R,True,False,False,False,True,False
+54,Garrett Whitlock,27,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,whitlga01,Red Sox,2023,R,True,False,False,False,True,False
+55,Chris Martin,37,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,CYA-12,martich02,Red Sox,2023,R,True,False,False,False,True,False
+56,Kenley Jansen,35,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,AS,janseke01,Red Sox,2023,S,True,False,False,False,True,False
+57,Connor Wong,28,1.6,126,487,447,54,125,24,1,13,52,8,7,28,114,0.28,0.333,0.425,0.758,110.0,0.327,107.0,190,7,9,1,2,1,23DH/47,,wongco01,Red Sox,2024,R,True,False,False,False,False,True
+58,Dominic Smith,29,0.0,84,278,249,29,59,20,0,6,34,1,1,25,65,0.237,0.317,0.39,0.706,96.0,0.314,96.0,97,7,4,0,0,0,3H/D1,,smithdo02,Red Sox,2024,L,True,False,False,False,False,True
+59,Enmanuel Valdéz,25,-0.6,76,223,201,23,43,12,0,6,28,1,1,17,53,0.214,0.27,0.363,0.633,74.0,0.277,70.0,73,4,0,1,4,0,4H/D57,,valdeen01,Red Sox,2024,L,True,False,False,False,False,True
+60,Ceddanne Rafaela,23,2.8,152,571,544,70,134,23,5,15,75,19,10,15,151,0.246,0.274,0.39,0.664,82.0,0.299,85.0,212,8,7,2,3,1,864/5H9,,rafaece01,Red Sox,2024,R,True,False,False,False,False,True
+61,Rafael Devers,27,3.7,138,601,525,87,143,34,5,28,83,3,0,67,147,0.272,0.354,0.516,0.871,139.0,0.368,134.0,271,13,3,0,6,14,*5/D,ASMVP-13,deverra01,Red Sox,2024,L,True,False,False,False,False,True
+62,Tyler O'Neill,29,2.6,113,473,411,74,99,18,0,31,61,4,0,53,159,0.241,0.336,0.511,0.847,132.0,0.365,131.0,210,13,7,0,2,5,79D/H,,oneilty01,Red Sox,2024,R,True,False,False,False,False,True
+63,Jarren Duran,27,8.7,160,735,671,111,191,48,14,21,75,34,7,54,160,0.285,0.342,0.492,0.834,129.0,0.373,134.0,330,6,6,1,3,1,*87,ASMVP-8,duranja01,Red Sox,2024,L,True,False,False,False,False,True
+64,Wilyer Abreu,25,3.4,132,447,399,59,101,33,2,15,58,8,3,40,125,0.253,0.322,0.459,0.781,114.0,0.339,112.0,183,7,3,0,5,0,*9H/78D,ROY-6GG,abreuwi02,Red Sox,2024,L,True,False,False,False,False,True
+65,Masataka Yoshida,30,1.4,108,421,378,45,106,21,0,10,56,2,0,27,52,0.28,0.349,0.415,0.765,112.0,0.341,114.0,157,6,14,0,2,0,DH/7,,yoshima02,Red Sox,2024,L,True,False,False,False,False,True
+66,David Hamilton,26,2.6,98,317,294,47,73,17,1,8,28,33,4,22,80,0.248,0.303,0.395,0.697,92.0,0.331,95.0,116,1,1,0,0,0,64H,,hamilda03,Red Sox,2024,L,True,False,False,False,False,True
+67,Rob Refsnyder,33,0.8,93,307,272,32,77,16,1,11,40,2,2,28,78,0.283,0.359,0.471,0.83,129.0,0.354,126.0,128,6,5,0,1,2,79HD,,refsnro01,Red Sox,2024,R,True,False,False,False,False,True
+68,Triston Casas,24,0.6,63,243,212,28,51,8,0,13,32,0,1,30,77,0.241,0.337,0.462,0.8,120.0,0.34,116.0,98,6,1,0,0,4,3/HD,,casastr01,Red Sox,2024,L,True,False,False,False,False,True
+69,Romy González,27,0.9,89,216,199,25,53,10,1,6,29,11,3,12,58,0.266,0.306,0.417,0.723,99.0,0.326,100.0,83,5,1,0,4,0,H4635/97D8,,gonzaro01,Red Sox,2024,R,True,False,False,False,False,True
+70,Reese McGuire,29,0.1,53,158,139,10,29,3,0,3,18,3,0,13,39,0.209,0.28,0.295,0.575,61.0,0.269,60.0,41,4,2,1,3,0,2/HD,,mcguire01,Red Sox,2024,L,True,False,False,False,False,True
+71,Vaughn Grissom,23,-0.2,31,114,105,10,20,3,0,0,6,2,0,7,24,0.19,0.246,0.219,0.465,31.0,0.234,35.0,23,3,1,0,1,0,4/DH,,grissva01,Red Sox,2024,R,True,False,False,False,False,True
+72,Trevor Story,31,0.7,26,106,94,8,24,7,0,2,10,6,3,11,33,0.255,0.34,0.394,0.733,104.0,0.325,104.0,37,2,1,0,0,2,6,,storytr01,Red Sox,2024,R,True,False,False,False,False,True
+73,Danny Jansen,29,0.1,30,96,80,8,15,0,0,3,6,0,0,15,19,0.188,0.323,0.3,0.623,75.0,0.307,90.0,24,3,1,0,0,0,2/HD,,janseda01,Red Sox,2024,R,True,False,False,False,False,True
+74,Bobby Dalbec,29,-0.8,37,93,83,6,11,2,0,1,8,3,0,8,43,0.133,0.217,0.193,0.41,16.0,0.196,4.0,16,1,1,1,0,0,35/H9D,,dalbebo01,Red Sox,2024,R,True,False,False,False,False,True
+75,Nick Sogard,26,0.3,31,86,77,13,21,4,0,0,8,3,0,7,25,0.273,0.326,0.325,0.65,82.0,0.299,79.0,25,4,0,0,2,0,4/65H3,,sogarni01,Red Sox,2024,S,True,False,False,False,False,True
+76,Garrett Cooper,33,-0.9,24,75,70,3,12,4,0,0,5,0,0,3,22,0.171,0.227,0.229,0.455,28.0,0.207,19.0,16,2,2,0,0,0,3/DH,,coopega03,Red Sox,2024,R,True,False,False,False,False,True
+77,Pablo Reyes,30,-0.7,21,64,60,4,11,2,0,0,5,1,2,3,19,0.183,0.234,0.217,0.451,27.0,0.196,20.0,13,1,1,0,0,0,5/436H1,,reyespa01,Red Sox,2024,R,True,False,False,False,False,True
+78,Jamie Westbrook,29,-0.1,21,48,40,4,6,2,0,2,7,0,0,4,14,0.15,0.234,0.35,0.584,60.0,0.271,63.0,14,0,1,0,2,0,4/H59D,,westbja02,Red Sox,2024,R,True,False,False,False,False,True
+79,Mickey Gasper,28,-0.2,13,23,18,1,0,0,0,0,0,0,0,4,8,0.0,0.217,0.0,0.217,-32.0,0.151,-22.0,0,1,1,0,0,0,/4HD3,,gaspemi01,Red Sox,2024,S,True,False,False,False,False,True
+80,Zack Short,29,-0.2,2,7,7,0,0,0,0,0,0,0,0,0,4,0.0,0.0,0.0,0.0,-100.0,0.0,-130.0,0,0,0,0,0,0,/45,,shortza01,Red Sox,2024,R,True,False,False,False,False,True
+81,Tyler Heineman,33,0.1,2,3,2,0,0,0,0,0,0,0,0,0,1,0.0,0.333,0.0,0.333,5.0,0.239,41.0,0,0,1,0,0,0,/2D,,heinety01,Red Sox,2024,S,True,False,False,False,False,True
+82,Josh Winckowski,26,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,winckjo01,Red Sox,2024,R,True,False,False,False,False,True
+83,Chris Martin,38,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,martich02,Red Sox,2024,R,True,False,False,False,False,True
+84,Chase Shugart,27,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,/1,,shugach01,Red Sox,2024,L,True,False,False,False,False,True
+85,Zach Penrod,27,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,/1,,penroza01,Red Sox,2024,L,True,False,False,False,False,True
+86,Kenley Jansen,36,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,janseke01,Red Sox,2024,S,True,False,False,False,False,True
+87,Isaiah Campbell,26,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,/1,,campbis01,Red Sox,2024,R,True,False,False,False,False,True
+88,Brennan Bernardino,32,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,bernabr01,Red Sox,2024,L,True,False,False,False,False,True
+89,Chase Anderson,36,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,anderch01,Red Sox,2024,R,True,False,False,False,False,True
+90,Jose Trevino,29,2.3,115,353,335,39,83,12,1,11,43,2,1,15,62,0.248,0.283,0.388,0.671,89.0,0.296,86.0,130,5,2,0,1,0,*2/HD,ASGG,trevijo01,Yankees,2022,R,False,False,True,True,False,False
+91,Anthony Rizzo,32,2.3,130,548,465,77,104,21,1,32,75,6,5,58,101,0.224,0.338,0.48,0.817,130.0,0.35,127.0,223,13,23,0,2,6,*3/DH,,rizzoan01,Yankees,2022,L,False,False,True,True,False,False
+92,Gleyber Torres,25,4.0,140,572,526,73,135,28,1,24,76,10,5,39,129,0.257,0.31,0.451,0.761,113.0,0.334,114.0,237,12,3,1,3,2,*4/DH6,,torregl01,Yankees,2022,R,False,False,True,True,False,False
+93,Isiah Kiner-Falefa,27,2.9,142,531,483,66,126,20,0,4,48,22,4,35,72,0.261,0.314,0.327,0.642,84.0,0.299,83.0,158,13,5,3,5,2,*6/5H,,kineris01,Yankees,2022,R,False,False,True,True,False,False
+94,Josh Donaldson,36,2.2,132,546,478,59,106,28,0,15,62,2,2,54,148,0.222,0.308,0.374,0.682,93.0,0.311,98.0,179,13,8,0,6,1,5D/H,,donaljo02,Yankees,2022,R,False,False,True,True,False,False
+95,Aaron Hicks,32,1.5,130,453,384,54,83,9,2,8,40,10,3,62,109,0.216,0.33,0.313,0.642,85.0,0.304,90.0,120,10,4,1,2,3,*87H/D,,hicksaa01,Yankees,2022,S,False,False,True,True,False,False
+96,Aaron Judge,30,10.5,157,696,570,133,177,28,0,62,131,16,3,111,175,0.311,0.425,0.686,1.111,210.0,0.463,208.0,391,14,6,0,5,19,*89D/H,ASMVP-1SS,judgeaa01,Yankees,2022,R,False,False,True,True,False,False
+97,Joey Gallo,28,0.0,82,273,233,32,37,4,1,12,24,2,0,40,106,0.159,0.282,0.339,0.621,76.0,0.286,78.0,79,0,0,0,0,0,79/H8D,,gallojo01,Yankees,2022,L,False,False,True,True,False,False
+98,Giancarlo Stanton,32,0.7,110,452,398,53,84,7,0,31,78,0,0,50,137,0.211,0.297,0.462,0.759,112.0,0.331,111.0,184,8,0,0,3,2,D9/H7,AS,stantmi03,Yankees,2022,R,False,False,True,True,False,False
+99,DJ LeMahieu,33,3.6,125,541,467,74,122,18,0,12,46,4,3,67,71,0.261,0.357,0.377,0.734,110.0,0.339,118.0,176,12,4,1,2,0,543/HD,GG,lemahdj01,Yankees,2022,R,False,False,True,True,False,False
+100,Kyle Higashioka,32,0.6,83,248,229,27,52,7,0,10,31,0,1,12,52,0.227,0.264,0.389,0.653,83.0,0.284,79.0,89,5,1,2,4,0,2/HD,,higasky01,Yankees,2022,R,False,False,True,True,False,False
+101,Marwin González,33,0.8,85,207,184,20,34,7,0,6,18,3,0,14,54,0.185,0.255,0.321,0.576,63.0,0.273,66.0,59,8,4,3,2,0,6973H5/4D1,,gonzama01,Yankees,2022,S,False,False,True,True,False,False
+102,Oswaldo Cabrera,23,2.0,44,171,154,21,38,8,1,6,19,3,2,15,44,0.247,0.312,0.429,0.74,108.0,0.325,108.0,66,1,0,1,1,0,9/76345H,,cabreos01,Yankees,2022,S,False,False,True,True,False,False
+103,Matt Carpenter,36,2.3,47,154,128,28,39,9,0,15,37,0,0,19,35,0.305,0.412,0.727,1.138,216.0,0.476,218.0,93,2,5,1,1,1,D9H/375,,carpema01,Yankees,2022,L,False,False,True,True,False,False
+104,Andrew Benintendi,27,0.6,33,131,114,14,29,9,1,2,12,4,1,13,25,0.254,0.331,0.404,0.734,108.0,0.332,109.0,46,1,1,1,2,0,7/H,AS,beninan01,Yankees,2022,L,False,False,True,True,False,False
+105,Miguel Andujar,27,0.2,27,100,96,9,22,2,0,1,8,4,0,3,22,0.229,0.25,0.281,0.531,51.0,0.279,67.0,27,0,0,0,1,0,7/DH3,,andujmi01,Yankees,2022,R,False,False,True,True,False,False
+106,Oswald Peraza,22,0.5,18,57,49,8,15,3,0,1,2,2,0,6,9,0.306,0.404,0.429,0.832,138.0,0.396,153.0,21,3,2,0,0,0,6/4H,,perazos02,Yankees,2022,R,False,False,True,True,False,False
+107,Harrison Bader,28,-0.1,14,49,46,3,10,3,0,0,9,2,1,2,15,0.217,0.245,0.283,0.528,50.0,0.23,38.0,13,0,0,0,1,0,8/H,,baderha01,Yankees,2022,R,False,False,True,True,False,False
+108,Tim Locastro,29,-0.2,38,46,43,13,8,1,0,2,4,8,2,2,7,0.186,0.239,0.349,0.588,65.0,0.279,58.0,15,0,1,0,0,0,H7/89D,,locasti01,Yankees,2022,R,False,False,True,True,False,False
+109,Estevan Florial,24,-0.5,17,35,31,4,3,0,0,0,1,2,0,3,13,0.097,0.2,0.097,0.297,-11.0,0.168,-17.0,3,0,1,0,0,0,8/H7D,,flories01,Yankees,2022,L,False,False,True,True,False,False
+110,Ronald Guzmán,27,-0.2,3,6,6,0,0,0,0,0,0,0,0,0,5,0.0,0.0,0.0,0.0,-100.0,0.0,-129.0,0,1,0,0,0,0,/3,,guzmaro01,Yankees,2022,L,False,False,True,True,False,False
+111,Rob Brantly,32,0.0,1,3,3,0,1,1,0,0,0,0,0,0,0,0.333,0.333,0.667,1.0,175.0,0.419,176.0,2,0,0,0,0,0,/2,,brantro01,Yankees,2022,L,False,False,True,True,False,False
+112,Jonathan Loáisiga,27,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,loaisjo01,Yankees,2022,R,False,False,True,True,False,False
+113,Clarke Schmidt,26,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,schmicl01,Yankees,2022,R,False,False,True,True,False,False
+114,Kyle Higashioka,33,-0.3,92,260,242,24,57,13,0,10,34,0,0,14,74,0.236,0.274,0.413,0.687,85.0,0.295,81.0,100,5,0,1,3,0,2/HD,,higasky01,Yankees,2023,R,False,False,True,False,True,False
+115,Anthony Rizzo,33,0.5,99,421,373,45,91,14,0,12,41,0,3,35,97,0.244,0.328,0.378,0.706,94.0,0.309,94.0,141,10,12,0,1,1,3/D,,rizzoan01,Yankees,2023,L,False,False,True,False,True,False
+116,Gleyber Torres,26,2.9,158,672,596,90,163,28,2,25,68,13,6,67,98,0.273,0.347,0.453,0.8,118.0,0.344,116.0,270,19,3,0,6,0,*4D/H,,torregl01,Yankees,2023,R,False,False,True,False,True,False
+117,Anthony Volpe,22,3.3,159,601,541,62,113,23,4,21,60,24,5,52,167,0.209,0.283,0.383,0.666,81.0,0.299,80.0,207,10,5,1,2,0,*6/H,ROY-8GG,volpean01,Yankees,2023,R,False,False,True,False,True,False
+118,DJ LeMahieu,34,1.3,136,562,497,55,121,22,3,15,44,2,2,60,125,0.243,0.327,0.39,0.718,96.0,0.315,96.0,194,14,3,0,2,2,53/4HD,,lemahdj01,Yankees,2023,R,False,False,True,False,True,False
+119,Oswaldo Cabrera,24,-1.5,115,330,298,35,63,11,0,5,29,8,0,25,72,0.211,0.275,0.299,0.574,58.0,0.259,50.0,89,6,2,3,2,1,795H/46D38,,cabreos01,Yankees,2023,S,False,False,True,False,True,False
+120,Harrison Bader,29,0.9,84,310,288,40,69,11,2,7,37,17,2,14,56,0.24,0.278,0.365,0.643,75.0,0.285,67.0,105,6,3,1,4,0,8/H,,baderha01,Yankees,2023,R,False,False,True,False,True,False
+121,Aaron Judge,31,4.5,106,458,367,79,98,16,0,37,75,3,1,88,130,0.267,0.406,0.613,1.019,175.0,0.421,172.0,225,5,0,0,3,9,9D8/H,ASMVP-15,judgeaa01,Yankees,2023,R,False,False,True,False,True,False
+122,Giancarlo Stanton,33,-0.8,101,415,371,43,71,13,0,24,60,0,0,41,124,0.191,0.275,0.42,0.695,87.0,0.299,84.0,156,11,2,0,1,3,D9/H7,,stantmi03,Yankees,2023,R,False,False,True,False,True,False
+123,Isiah Kiner-Falefa,28,0.0,113,361,326,39,79,12,1,6,37,14,5,28,70,0.242,0.306,0.34,0.646,78.0,0.29,76.0,111,12,3,1,3,0,875H/9146,,kineris01,Yankees,2023,R,False,False,True,False,True,False
+124,Jake Bauers,27,-0.9,84,272,242,28,49,15,0,12,30,3,2,27,95,0.202,0.279,0.413,0.693,87.0,0.301,86.0,100,3,0,0,3,0,973H/D,,bauerja01,Yankees,2023,L,False,False,True,False,True,False
+125,Oswald Peraza,23,-0.7,52,191,173,15,33,8,0,2,14,4,3,13,50,0.191,0.267,0.272,0.539,49.0,0.244,47.0,47,1,5,0,0,0,54/6HD,,perazos02,Yankees,2023,R,False,False,True,False,True,False
+126,Jose Trevino,30,0.5,55,168,157,15,33,4,0,4,15,0,0,8,22,0.21,0.257,0.312,0.57,56.0,0.272,64.0,49,6,2,1,0,0,2/H,,trevijo01,Yankees,2023,R,False,False,True,False,True,False
+127,Willie Calhoun,28,-0.2,44,149,134,16,32,7,0,5,16,0,0,14,20,0.239,0.309,0.403,0.712,94.0,0.305,88.0,54,2,0,0,1,1,D/9H7,,calhowi01,Yankees,2023,L,False,False,True,False,True,False
+128,Billy McKinney,28,0.2,48,147,128,19,29,3,1,6,14,1,0,17,39,0.227,0.32,0.406,0.726,98.0,0.314,93.0,52,1,1,0,1,1,79/8H3,,mckinbi01,Yankees,2023,L,False,False,True,False,True,False
+129,Josh Donaldson,37,0.0,33,120,106,13,15,1,0,10,15,0,0,12,32,0.142,0.225,0.434,0.659,75.0,0.274,66.0,46,2,0,0,2,0,5/DH1,,donaljo02,Yankees,2023,R,False,False,True,False,True,False
+130,Everson Pereira,22,-0.6,27,103,93,6,14,4,0,0,10,4,0,8,40,0.151,0.233,0.194,0.427,20.0,0.211,14.0,18,1,2,0,0,0,7,,pereiev01,Yankees,2023,R,False,False,True,False,True,False
+131,Ben Rortvedt,25,-0.2,32,79,68,6,8,1,0,2,4,0,0,11,19,0.118,0.241,0.221,0.461,28.0,0.218,26.0,15,1,0,0,0,0,2/HD,,rortvbe01,Yankees,2023,L,False,False,True,False,True,False
+132,Aaron Hicks,33,-0.5,28,76,69,9,13,2,0,1,5,0,0,7,20,0.188,0.263,0.261,0.524,45.0,0.237,40.0,18,0,0,0,0,0,7/8HD,,hicksaa01,Yankees,2023,S,False,False,True,False,True,False
+133,Austin Wells,23,0.1,19,75,70,8,16,6,0,4,13,0,0,3,14,0.229,0.257,0.486,0.742,97.0,0.307,89.0,34,3,0,0,1,0,2/H,,wellsau01,Yankees,2023,L,False,False,True,False,True,False
+134,Estevan Florial,25,0.0,19,71,61,5,14,3,1,0,8,3,0,7,20,0.23,0.324,0.311,0.635,76.0,0.296,74.0,19,0,2,0,1,0,8/H,,flories01,Yankees,2023,L,False,False,True,False,True,False
+135,Franchy Cordero,28,-0.1,24,71,69,9,13,2,0,6,13,0,0,2,25,0.188,0.211,0.478,0.69,81.0,0.296,82.0,33,0,0,0,0,0,9/7H,,cordefr02,Yankees,2023,L,False,False,True,False,True,False
+136,Jasson Domínguez,20,0.2,8,33,31,6,8,1,0,4,7,1,0,2,8,0.258,0.303,0.677,0.98,158.0,0.409,157.0,21,1,0,0,0,0,/8,,dominja01,Yankees,2023,S,False,False,True,False,True,False
+137,Greg Allen,30,0.0,22,28,23,6,5,1,1,1,1,3,1,2,10,0.217,0.333,0.478,0.812,119.0,0.389,145.0,11,0,2,1,0,0,7H/98D,,allengr01,Yankees,2023,S,False,False,True,False,True,False
+138,Austin Wells,24,2.5,115,414,354,42,81,18,1,13,55,1,2,47,87,0.229,0.322,0.395,0.718,103.0,0.318,104.0,140,9,5,1,7,0,*2H/D,ROY-3,wellsau01,Yankees,2024,L,False,False,True,False,False,True
+139,Anthony Rizzo,34,0.2,92,375,337,38,77,12,0,8,35,0,0,27,65,0.228,0.301,0.335,0.637,81.0,0.297,88.0,113,7,9,0,2,0,3/H,,rizzoan01,Yankees,2024,L,False,False,True,False,False,True
+140,Gleyber Torres,27,1.8,154,665,587,80,151,26,0,15,63,4,3,65,136,0.257,0.33,0.378,0.709,101.0,0.318,103.0,222,6,3,2,8,0,*4/H,,torregl01,Yankees,2024,R,False,False,True,False,False,True
+141,Anthony Volpe,23,3.4,160,689,637,90,155,27,7,12,60,28,7,42,156,0.243,0.293,0.364,0.657,86.0,0.296,84.0,232,9,4,2,3,1,*6/H,,volpean01,Yankees,2024,R,False,False,True,False,False,True
+142,Oswaldo Cabrera,25,1.3,108,326,299,47,74,11,0,8,36,4,2,21,63,0.247,0.296,0.365,0.661,87.0,0.3,90.0,109,6,1,2,3,0,5H34/6791,,cabreos01,Yankees,2024,S,False,False,True,False,False,True
+143,Alex Verdugo,28,0.8,149,621,559,74,130,28,1,13,61,2,1,49,93,0.233,0.291,0.356,0.647,83.0,0.288,81.0,199,14,1,2,10,0,*79/8,,verdual01,Yankees,2024,L,False,False,True,False,False,True
+144,Aaron Judge,32,10.8,158,704,559,122,180,36,1,58,144,10,0,133,171,0.322,0.458,0.701,1.159,223.0,0.484,223.0,392,22,9,0,2,20,*8D/97,ASMVP-1SS,judgeaa01,Yankees,2024,R,False,False,True,False,False,True
+145,Juan Soto,25,7.9,157,713,576,128,166,31,4,41,109,7,4,129,119,0.288,0.419,0.569,0.989,178.0,0.424,179.0,328,10,4,0,4,2,*9/7DH,ASMVP-3SS,sotoju01,Yankees,2024,L,False,False,True,False,False,True
+146,Giancarlo Stanton,34,0.7,114,459,417,49,97,20,0,27,72,0,0,38,143,0.233,0.298,0.475,0.773,115.0,0.33,112.0,198,17,2,0,2,2,*D/H,,stantmi03,Yankees,2024,R,False,False,True,False,False,True
+147,Jose Trevino,31,0.6,73,234,209,26,45,5,0,8,28,1,0,20,41,0.215,0.288,0.354,0.642,81.0,0.287,80.0,74,12,2,1,2,0,2/H1,,trevijo01,Yankees,2024,R,False,False,True,False,False,True
+148,DJ LeMahieu,35,-1.6,67,228,201,19,41,5,0,2,26,0,1,19,35,0.204,0.269,0.259,0.527,51.0,0.244,51.0,52,13,1,1,6,0,35/H,,lemahdj01,Yankees,2024,R,False,False,True,False,False,True
+149,Trent Grisham,27,0.4,76,209,179,21,34,8,0,9,31,1,1,22,57,0.19,0.29,0.385,0.675,90.0,0.306,95.0,69,5,4,1,2,1,8H/D,,grishtr01,Yankees,2024,L,False,False,True,False,False,True
+150,Jazz Chisholm Jr.,26,1.5,46,191,176,28,48,7,0,11,23,18,2,14,45,0.273,0.325,0.5,0.825,130.0,0.373,130.0,88,2,0,0,1,0,8-May,,chishja01,Yankees,2024,L,False,False,True,False,False,True
+151,Ben Rice,25,-0.4,50,178,152,20,26,6,0,7,23,0,1,20,48,0.171,0.264,0.349,0.613,72.0,0.275,74.0,53,2,1,0,5,0,3/H2,,ricebe01,Yankees,2024,L,False,False,True,False,False,True
+152,Jon Berti,34,0.6,25,74,66,10,18,0,0,1,6,5,1,6,14,0.273,0.342,0.318,0.661,90.0,0.334,108.0,21,2,1,1,0,0,5/H47D,,bertijo01,Yankees,2024,R,False,False,True,False,False,True
+153,Jasson Domínguez,21,-0.1,18,67,56,8,10,1,0,2,4,5,0,11,19,0.179,0.313,0.304,0.617,77.0,0.315,88.0,17,0,0,0,0,0,7/8HD,,dominja01,Yankees,2024,S,False,False,True,False,False,True
+154,Jahmai Jones,26,0.0,33,47,42,8,10,1,1,1,4,1,1,2,16,0.238,0.304,0.381,0.685,93.0,0.293,89.0,16,0,2,1,0,0,H/9D745,,jonesja08,Yankees,2024,R,False,False,True,False,False,True
+155,J.D. Davis,31,-0.2,7,22,19,1,2,1,0,0,1,0,0,3,9,0.105,0.227,0.158,0.385,13.0,0.191,12.0,3,2,0,0,0,0,/3DH,,davisjd01,Yankees,2024,R,False,False,True,False,False,True
+156,Carlos Narváez,25,0.1,6,15,13,0,3,0,0,0,0,0,0,2,6,0.231,0.333,0.231,0.564,65.0,0.27,69.0,3,0,0,0,0,0,/2H,,narvaca01,Yankees,2024,R,False,False,True,False,False,True
+157,Oswald Peraza,24,0.1,4,11,10,2,2,0,0,1,1,0,0,1,3,0.2,0.273,0.5,0.773,113.0,0.329,110.0,5,0,0,0,0,0,/5,,perazos02,Yankees,2024,R,False,False,True,False,False,True
+158,Taylor Trammell,26,-0.1,5,2,1,2,1,0,0,0,0,0,0,1,0,1.0,1.0,1.0,2.0,472.0,0.79,435.0,1,0,0,0,0,0,/H79D,,trammta01,Yankees,2024,L,False,False,True,False,False,True
+159,Duke Ellis,26,0.1,3,1,1,0,1,0,0,0,0,1,0,0,0,1.0,1.0,1.0,2.0,473.0,1.142,536.0,1,0,0,0,0,0,/H7,,ellisdu01,Yankees,2024,L,False,False,True,False,False,True
+160,Kevin Smith,27,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,/HD,,smithke05,Yankees,2024,R,False,False,True,False,False,True
+161,Gary Sánchez,29,0.8,128,471,419,42,86,24,0,16,61,2,0,40,136,0.205,0.282,0.377,0.659,88.0,0.291,84.0,158,12,7,0,5,0,2DH/3,,sanchga02,Twins,2022,R,False,True,False,True,False,False
+162,José Miranda,24,0.9,125,483,444,45,119,25,0,15,66,1,1,28,91,0.268,0.325,0.426,0.751,114.0,0.334,116.0,189,19,10,0,1,0,35D/H,,miranjo01,Twins,2022,R,False,True,False,True,False,False
+163,Jorge Polanco,28,2.7,104,445,375,54,88,16,0,16,56,3,3,64,95,0.235,0.346,0.405,0.751,115.0,0.335,117.0,152,4,2,0,4,1,4/6DH,,polanjo01,Twins,2022,S,False,True,False,True,False,False
+164,Carlos Correa,27,5.3,136,590,522,70,152,24,1,22,64,0,1,61,121,0.291,0.366,0.467,0.834,138.0,0.367,140.0,244,18,3,0,4,2,*6/DH,,correca01,Twins,2022,R,False,True,False,True,False,False
+165,Gio Urshela,30,3.0,144,551,501,61,143,27,3,13,64,1,0,41,96,0.285,0.338,0.429,0.767,119.0,0.334,115.0,215,21,2,0,7,2,*5/DH6,,urshegi01,Twins,2022,R,False,True,False,True,False,False
+166,Nick Gordon,26,1.7,136,443,405,45,110,28,4,9,50,6,4,19,105,0.272,0.316,0.427,0.743,111.0,0.326,111.0,173,8,10,3,6,1,7846H/1D5,,gordoni01,Twins,2022,L,False,True,False,True,False,False
+167,Gilberto Celestino,23,0.3,122,347,311,30,74,12,1,2,24,4,1,32,77,0.238,0.313,0.302,0.615,78.0,0.292,84.0,94,13,2,2,0,0,*87H/9,,celesgi01,Twins,2022,R,False,True,False,True,False,False
+168,Max Kepler,29,2.1,115,446,388,54,88,18,1,9,43,3,2,49,66,0.227,0.318,0.348,0.666,92.0,0.305,95.0,135,7,5,0,4,1,*9/H8D,,keplema01,Twins,2022,L,False,True,False,True,False,False
+169,Luis Arráez,25,4.2,144,603,547,88,173,31,1,8,49,4,4,50,43,0.316,0.375,0.42,0.795,128.0,0.355,132.0,230,6,3,0,3,2,34DH/5,ASMVP-13SS,arraelu01,Twins,2022,L,False,True,False,True,False,False
+170,Byron Buxton,28,3.9,92,382,340,61,76,13,3,28,51,6,0,34,116,0.224,0.306,0.526,0.833,133.0,0.369,138.0,179,0,7,0,1,0,8D/H,AS,buxtoby01,Twins,2022,R,False,True,False,True,False,False
+171,Ryan Jeffers,25,0.9,67,236,212,25,44,10,1,7,27,0,0,23,62,0.208,0.285,0.363,0.648,85.0,0.291,84.0,77,6,0,1,0,0,2/DH,,jeffery01,Twins,2022,R,False,True,False,True,False,False
+172,Trevor Larnach,25,1.3,51,180,160,22,37,13,0,5,18,0,0,18,57,0.231,0.306,0.406,0.712,102.0,0.309,97.0,65,1,0,0,2,1,79/DH,,larnatr01,Twins,2022,L,False,True,False,True,False,False
+173,Jake Cave,29,0.5,54,177,164,17,35,7,3,5,20,2,0,11,49,0.213,0.26,0.384,0.644,82.0,0.3,89.0,63,2,0,0,2,0,79/H8,,caveja01,Twins,2022,L,False,True,False,True,False,False
+174,Kyle Garlick,30,0.2,66,162,150,23,35,3,0,9,18,0,0,8,48,0.233,0.284,0.433,0.717,102.0,0.334,116.0,65,2,3,0,1,0,79H/D,,garliky01,Twins,2022,R,False,True,False,True,False,False
+175,Alex Kirilloff,24,-0.3,45,156,144,14,36,7,0,3,21,0,0,5,36,0.25,0.29,0.361,0.651,86.0,0.297,88.0,52,5,4,0,2,0,73/9DH,,kirilal01,Twins,2022,L,False,True,False,True,False,False
+176,Jermaine Palacios,25,-0.6,30,77,70,8,10,0,0,2,6,0,0,4,27,0.143,0.184,0.229,0.413,18.0,0.206,22.0,16,2,0,1,2,0,64/H135,,palacje01,Twins,2022,R,False,True,False,True,False,False
+177,Miguel Sanó,29,-0.8,20,71,60,1,5,0,0,1,3,1,0,9,25,0.083,0.211,0.133,0.345,2.0,0.181,2.0,8,0,1,0,1,0,3/D,,sanomi01,Twins,2022,R,False,True,False,True,False,False
+178,Matt Wallner,24,-0.2,18,65,57,4,13,3,0,2,10,1,0,6,25,0.228,0.323,0.386,0.709,103.0,0.31,95.0,22,0,2,0,0,1,9/DH,,wallnma01,Twins,2022,L,False,True,False,True,False,False
+179,Sandy León,33,-0.4,25,65,56,6,10,3,0,0,4,0,0,7,23,0.179,0.27,0.232,0.502,46.0,0.233,40.0,13,1,0,2,0,0,2,,leonsa01,Twins,2022,S,False,True,False,True,False,False
+180,Mark Contreras,27,0.0,28,61,58,9,7,1,0,3,6,1,0,1,21,0.121,0.148,0.293,0.441,22.0,0.209,21.0,17,2,1,0,1,0,8/9H7,,contrma01,Twins,2022,L,False,True,False,True,False,False
+181,Royce Lewis,23,0.3,12,41,40,5,12,4,0,2,5,0,0,1,5,0.3,0.317,0.55,0.867,143.0,0.37,141.0,22,2,0,0,0,0,8-Jun,,lewisro02,Twins,2022,R,False,True,False,True,False,False
+182,Tim Beckham,32,-0.6,12,25,25,1,2,0,0,0,1,0,0,0,9,0.08,0.08,0.08,0.16,-54.0,0.068,-77.0,2,2,0,0,0,0,/H7D3,,beckhti01,Twins,2022,R,False,True,False,True,False,False
+183,Caleb Hamilton,27,-0.3,22,23,18,5,1,0,0,1,1,0,0,4,14,0.056,0.227,0.222,0.449,30.0,0.219,29.0,4,0,0,1,0,0,2/H3D,,hamilca01,Twins,2022,R,False,True,False,True,False,False
+184,Billy Hamilton,31,-0.1,17,8,7,4,0,0,0,0,0,3,1,1,4,0.0,0.125,0.0,0.125,-60.0,0.119,-63.0,0,0,0,0,0,0,H/7D4,,hamilbi02,Twins,2022,R,False,True,False,True,False,False
+185,José Godoy,27,0.0,2,5,3,2,0,0,0,0,0,0,0,2,2,0.0,0.4,0.0,0.4,29.0,0.275,73.0,0,0,0,0,0,0,/2,,godoyjo01,Twins,2022,L,False,True,False,True,False,False
+186,Jorge López,29,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,AS,lopezjo02,Twins,2022,R,False,True,False,True,False,False
+187,Michael Fulmer,29,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,fulmemi01,Twins,2022,R,False,True,False,True,False,False
+188,Jhoan Durán,24,0.0,3,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,duranjh01,Twins,2022,R,False,True,False,True,False,False
+189,Tyler Duffey,31,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,duffety01,Twins,2022,R,False,True,False,True,False,False
+190,Caleb Thielbar,35,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,thielca01,Twins,2022,R,False,True,False,True,False,False
+191,Christian Vázquez,32,-0.3,102,355,327,34,73,13,0,6,32,1,0,25,82,0.223,0.28,0.318,0.598,64.0,0.264,59.0,104,11,1,1,1,1,2/3H4D,,vazquch01,Twins,2023,R,False,True,False,False,True,False
+192,Donovan Solano,35,1.7,134,450,394,43,111,26,1,5,38,0,0,40,100,0.282,0.369,0.391,0.76,110.0,0.341,114.0,154,8,15,0,1,1,3H45D,,solando01,Twins,2023,R,False,True,False,False,True,False
+193,Edouard Julien,24,2.6,109,408,338,60,89,16,1,16,37,3,0,64,128,0.263,0.381,0.459,0.839,130.0,0.366,131.0,155,8,2,1,3,0,4DH/3,ROY-7,julieed01,Twins,2023,L,False,True,False,False,True,False
+194,Carlos Correa,28,1.4,135,580,514,60,118,29,2,18,65,0,0,59,131,0.23,0.312,0.399,0.711,94.0,0.312,94.0,205,30,4,0,3,3,*6,,correca01,Twins,2023,R,False,True,False,False,True,False
+195,Royce Lewis,24,2.4,58,239,217,36,67,7,0,15,52,6,1,20,55,0.309,0.372,0.548,0.921,149.0,0.393,149.0,119,5,2,0,0,0,5/DH6,,lewisro02,Twins,2023,R,False,True,False,False,True,False
+196,Joey Gallo,29,0.5,111,332,282,39,50,9,1,21,40,1,1,48,142,0.177,0.301,0.44,0.741,100.0,0.32,100.0,124,3,2,0,0,1,37H89/D,,gallojo01,Twins,2023,L,False,True,False,False,True,False
+197,Michael A. Taylor,32,1.9,129,388,355,48,78,14,1,21,51,13,1,26,130,0.22,0.278,0.442,0.72,93.0,0.316,92.0,157,7,3,3,1,0,*8H/D,,taylomi02,Twins,2023,R,False,True,False,False,True,False
+198,Max Kepler,30,2.9,130,491,438,72,114,22,2,24,66,1,1,45,106,0.26,0.332,0.484,0.816,120.0,0.353,124.0,212,9,4,0,4,0,*9H/D,,keplema01,Twins,2023,L,False,True,False,False,True,False
+199,Byron Buxton,29,0.8,85,347,304,49,63,17,1,17,42,9,0,35,109,0.207,0.294,0.438,0.731,97.0,0.321,96.0,133,3,4,0,4,2,D/H,,buxtoby01,Twins,2023,R,False,True,False,False,True,False
+200,Willi Castro,26,2.7,124,409,358,60,92,18,5,9,34,33,5,34,99,0.257,0.339,0.411,0.75,105.0,0.341,106.0,147,5,12,2,3,1,785H4/691D,,castrwi01,Twins,2023,S,False,True,False,False,True,False
+201,Kyle Farmer,32,1.7,120,369,336,49,86,14,2,11,46,2,4,23,86,0.256,0.317,0.408,0.725,97.0,0.322,104.0,137,7,8,0,2,0,456H/37D,,farmeky01,Twins,2023,R,False,True,False,False,True,False
+202,Jorge Polanco,29,2.0,80,343,302,38,77,18,0,14,48,4,0,36,88,0.255,0.335,0.454,0.789,114.0,0.341,112.0,137,2,2,0,3,0,45D/H,,polanjo01,Twins,2023,S,False,True,False,False,True,False
+203,Ryan Jeffers,26,3.3,96,335,286,46,79,15,2,14,43,3,2,33,93,0.276,0.369,0.49,0.858,133.0,0.368,135.0,140,6,10,4,2,1,2H/D,,jeffery01,Twins,2023,R,False,True,False,False,True,False
+204,Alex Kirilloff,25,0.4,88,319,281,35,76,14,1,11,41,1,0,28,80,0.27,0.348,0.445,0.793,116.0,0.343,115.0,125,2,7,0,3,1,3H97/D,,kirilal01,Twins,2023,L,False,True,False,False,True,False
+205,Matt Wallner,25,2.2,76,254,213,42,53,11,1,14,41,2,1,28,80,0.249,0.37,0.507,0.877,138.0,0.386,147.0,108,1,13,0,0,1,79/DH,,wallnma01,Twins,2023,L,False,True,False,False,True,False
+206,Trevor Larnach,26,0.1,58,212,183,26,39,7,3,8,40,1,1,27,72,0.213,0.311,0.415,0.727,97.0,0.318,99.0,76,2,0,0,2,1,79/HD,,larnatr01,Twins,2023,L,False,True,False,False,True,False
+207,José Miranda,25,-0.2,40,152,142,12,30,4,0,3,13,0,0,9,24,0.211,0.263,0.303,0.566,55.0,0.261,58.0,43,8,1,0,0,0,5/D3H,,miranjo01,Twins,2023,R,False,True,False,False,True,False
+208,Nick Gordon,27,-0.2,34,93,91,13,16,5,1,2,7,0,0,1,11,0.176,0.185,0.319,0.503,35.0,0.222,29.0,29,1,0,1,0,0,874H/6,,gordoni01,Twins,2023,L,False,True,False,False,True,False
+209,Jordan Luplow,29,0.1,32,73,63,10,13,3,0,2,4,2,0,9,19,0.206,0.315,0.349,0.664,83.0,0.302,82.0,22,1,1,0,0,0,7H/39D18,,luplojo01,Twins,2023,R,False,True,False,False,True,False
+210,Andrew Stevenson,29,0.1,25,40,37,4,7,1,0,0,1,4,1,2,8,0.189,0.25,0.216,0.466,30.0,0.222,22.0,8,0,1,0,0,0,8H/7,,stevean01,Twins,2023,L,False,True,False,False,True,False
+211,Kyle Garlick,31,-0.1,14,30,28,2,5,1,0,2,4,0,0,2,11,0.179,0.233,0.429,0.662,76.0,0.276,68.0,12,0,0,0,0,0,/9H7D,,garliky01,Twins,2023,R,False,True,False,False,True,False
+212,Jovani Morán,26,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,moranjo01,Twins,2023,L,False,True,False,False,True,False
+213,Emilio Pagán,32,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,paganem01,Twins,2023,L,False,True,False,False,True,False
+214,Cole Sands,25,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0,0,1,,sandsco01,Twins,2023,R,False,True,False,False,True,False
+215,Ryan Jeffers,27,2.1,122,465,412,56,93,22,0,21,64,3,0,32,94,0.226,0.3,0.432,0.732,103.0,0.322,103.0,178,9,14,1,6,0,2DH,,jeffery01,Twins,2024,R,False,True,False,False,False,True
+216,Carlos Santana,38,2.5,150,594,521,63,124,26,0,23,71,4,0,65,99,0.238,0.328,0.42,0.749,109.0,0.329,108.0,219,11,6,0,2,3,*3/HD,GG,santaca01,Twins,2024,S,False,True,False,False,False,True
+217,Edouard Julien,25,-0.2,94,301,266,36,53,9,0,8,21,6,0,33,102,0.199,0.292,0.323,0.616,74.0,0.288,76.0,86,2,2,0,0,0,4H/D3,,julieed01,Twins,2024,L,False,True,False,False,False,True
+218,Carlos Correa,29,3.7,86,367,319,55,99,20,2,14,54,0,0,40,61,0.31,0.388,0.517,0.905,152.0,0.393,155.0,165,5,3,0,4,4,6/DH,AS,correca01,Twins,2024,R,False,True,False,False,False,True
+219,José Miranda,26,1.7,121,429,401,44,114,28,4,9,49,2,2,18,66,0.284,0.322,0.441,0.763,112.0,0.333,112.0,177,13,6,0,4,1,5DH3/6,,miranjo01,Twins,2024,R,False,True,False,False,False,True
+220,Manuel Margot,29,-0.9,129,343,315,37,75,17,1,4,31,5,0,21,54,0.238,0.289,0.337,0.626,76.0,0.281,72.0,106,10,3,1,3,0,*79H8/D,,margoma01,Twins,2024,R,False,True,False,False,False,True
+221,Byron Buxton,30,3.6,102,388,355,62,99,27,3,18,56,7,2,20,99,0.279,0.335,0.524,0.859,137.0,0.369,136.0,186,3,11,0,2,1,8/HD,,buxtoby01,Twins,2024,R,False,True,False,False,False,True
+222,Max Kepler,31,1.0,105,399,368,43,93,21,1,8,42,1,0,22,80,0.253,0.302,0.38,0.682,91.0,0.315,98.0,140,3,5,0,3,0,9H/D,,keplema01,Twins,2024,L,False,True,False,False,False,True
+223,Trevor Larnach,27,1.3,112,400,355,59,92,17,0,15,52,4,1,40,89,0.259,0.338,0.434,0.771,116.0,0.341,117.0,154,12,3,0,2,1,7D9H,,larnatr01,Twins,2024,L,False,True,False,False,False,True
+224,Willi Castro,27,1.6,158,635,558,89,138,31,5,12,60,14,9,51,150,0.247,0.331,0.385,0.717,102.0,0.326,108.0,215,8,21,1,4,0,64785/H1,AS,castrwi01,Twins,2024,S,False,True,False,False,False,True
+225,Royce Lewis,25,0.7,82,325,292,40,68,16,0,16,47,0,0,28,74,0.233,0.295,0.452,0.747,107.0,0.315,99.0,132,5,0,0,5,2,5D/H4,,lewisro02,Twins,2024,R,False,True,False,False,False,True
+226,Christian Vázquez,33,-0.2,93,315,294,29,65,10,0,7,27,3,1,11,65,0.221,0.248,0.327,0.575,60.0,0.262,60.0,96,11,1,5,4,0,2/5DH3,,vazquch01,Twins,2024,R,False,True,False,False,False,True
+227,Matt Wallner,26,2.2,75,261,220,26,57,17,1,13,37,3,0,24,95,0.259,0.372,0.523,0.894,149.0,0.387,149.0,115,2,16,0,1,0,97DH/1,,wallnma01,Twins,2024,L,False,True,False,False,False,True
+228,Austin Martin,25,-1.0,93,257,233,41,59,18,1,1,16,7,3,20,47,0.253,0.318,0.352,0.67,89.0,0.299,87.0,82,4,2,2,0,0,78H4/D,,martiau01,Twins,2024,R,False,True,False,False,False,True
+229,Kyle Farmer,33,-0.3,107,242,215,26,46,13,1,5,25,3,5,19,49,0.214,0.293,0.353,0.647,82.0,0.281,80.0,76,6,6,0,2,1,45H6/13D,,farmeky01,Twins,2024,R,False,True,False,False,False,True
+230,Brooks Lee,23,-0.2,50,185,172,9,38,6,1,3,27,3,0,11,27,0.221,0.265,0.32,0.585,64.0,0.256,53.0,55,6,0,0,2,2,654/HD,,leebr02,Twins,2024,S,False,True,False,False,False,True
+231,Alex Kirilloff,26,-0.6,57,178,159,20,32,8,3,5,20,0,0,15,47,0.201,0.27,0.384,0.653,81.0,0.287,79.0,61,5,1,0,3,0,7D3/H9,,kirilal01,Twins,2024,L,False,True,False,False,False,True
+232,DaShawn Keirsey,27,0.0,6,14,13,1,2,0,0,1,1,0,0,0,1,0.154,0.214,0.385,0.599,64.0,0.254,55.0,5,0,1,0,0,0,/87,,keirsda01,Twins,2024,L,False,True,False,False,False,True
+233,Michael Helman,28,0.1,9,10,10,2,3,2,0,0,0,0,0,0,3,0.3,0.3,0.5,0.8,120.0,0.329,109.0,5,0,0,0,0,0,/8H759,,helmami01,Twins,2024,R,False,True,False,False,False,True
+234,Diego Castillo,26,0.2,4,8,6,3,2,1,0,0,2,0,0,2,1,0.333,0.5,0.5,1.0,184.0,0.439,189.0,3,0,0,0,0,0,/5DH,,castidi02,Twins,2024,R,False,True,False,False,False,True
+235,Jair Camargo,24,-0.1,5,7,6,1,0,0,0,0,0,0,0,1,3,0.0,0.143,0.0,0.143,-54.0,0.098,-57.0,0,0,0,0,0,0,/2DH,,camarja01,Twins,2024,R,False,True,False,False,False,True
